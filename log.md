@@ -9,3 +9,17 @@
 
 **Link(s) to work**
 1. [Offical React Native Docs for support](https://facebook.github.io/react-native/docs/getting-started.html)
+
+
+
+### Day 2: January 10, Wednesday
+
+**Today's Progress**: Learned about setting up new components in different files and import them into the main index file. Also learned how to you can apply some styling to a component.
+
+**Thoughts** Making seperate components for specific elements seems logical. Still need to read more about states and props, but it seems really handy to re-use different components without copying the same code everytime. 
+
+**Link(s) to work**
+1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+2. [Docs about styling in React](https://facebook.github.io/react-native/docs/style.html)
+3. [State and Props explained](https://medium.freecodecamp.org/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492)
+
