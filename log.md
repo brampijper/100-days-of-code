@@ -23,3 +23,14 @@
 2. [Docs about styling in React](https://facebook.github.io/react-native/docs/style.html)
 3. [State and Props explained](https://medium.freecodecamp.org/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492)
 
+
+
+### Day 3: January 12, Wednesday
+
+**Today's Progress**: Read more about the difference between states and props in React. Succesfully retreived data from a https request and rendered it in the app. 
+
+**Thoughts** Have to put more effort in learning the ema script 2016 format. Also slowly beginning to understand the use of state and props in react. Did not have much time the past two days, will put more effort into this project over the weekend
+
+**Link(s) to work**
+1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+
