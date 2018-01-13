@@ -25,11 +25,23 @@
 
 
 
-### Day 3: January 12, Wednesday
+### Day 3: January 12, Friday
 
 **Today's Progress**: Read more about the difference between states and props in React. Succesfully retreived data from a https request and rendered it in the app. 
 
 **Thoughts** Have to put more effort in learning the ema script 2016 format. Also slowly beginning to understand the use of state and props in react. Did not have much time the past two days, will put more effort into this project over the weekend
+
+**Link(s) to work**
+1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+
+
+
+### Day 4: January 13, Saturday
+
+**Today's Progress**: Further implementation of props in my components by creating an extra component called AlbumDetails that the AlbumList component is using to render extra information about the albums. 
+
+**Thoughts** I made a small to do list, because I noticed that I'm struggling to really understand the use of props and state in React. Another thing is that I need to read more about the ES6
+ syntax style. The arrow functions are easy and I also understand the difference between let, const and var but there's much more! Also thinking about following some basic react tutorials to get more knowledge about the pure basics of react (for example things like: every component is required to have a render function)
 
 **Link(s) to work**
 1. [My Github Repo](https://github.com/brampijper/learning-react-native)
