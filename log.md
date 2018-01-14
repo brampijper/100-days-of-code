@@ -46,3 +46,14 @@
 **Link(s) to work**
 1. [My Github Repo](https://github.com/brampijper/learning-react-native)
 
+
+
+### Day 5: January 14, Sunday
+
+**Today's Progress**: I've created multiple components purely for styling other components. I also learned about props.children, which comes in really handy if you want to apply the styling to multiple instances. 
+
+**Thoughts** I'm slowly getting the gasp of props. I still have to read more about the ES2016 syntax. I am also wondering about the differences between  the react native and react.js library. They probably have a lot in common so it will be nice to set-up a react based project after succesfully learning react-native. 
+
+**Link(s) to work**
+1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+
