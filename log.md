@@ -61,9 +61,12 @@
 
 ### Day 6: January 15, Monday
 
-**Today's Progress**: I've created multiple components purely for styling other components. I also learned about props.children, which comes in really handy if you want to apply the styling to multiple instances. 
+**Today's Progress**: Couple of small things I learned today: 
+    1. I learned about reconstructing props if you use them multiple times. (which cleans up your code)
+    2. Using images in react (without setting the width and height elements react doesn't render the image)
+    3. Justify content and Flex direction properties (Handy for positioning multiple elements in react native)
 
-**Thoughts** I'm slowly getting the gasp of props. I still have to read more about the ES2016 syntax. I am also wondering about the differences between  the react native and react.js library. They probably have a lot in common so it will be nice to set-up a react based project after succesfully learning react-native. 
+**Thoughts** Got stuck for a bit by forgetting curly braces, when reconstructing the props element. Which was kind of frustrating but I found it rather quickly before I was getting frustrated. ;) Also learning about the flexbox properties was not that hard.
 
 **Link(s) to work**
 1. [My Github Repo](https://github.com/brampijper/learning-react-native)
