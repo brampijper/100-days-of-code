@@ -19,7 +19,7 @@
 **Thoughts** Making seperate components for specific elements seems logical. Still need to read more about states and props, but it seems really handy to re-use different components without copying the same code everytime. 
 
 **Link(s) to work**
-1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+1. [Favourite Albums](https://github.com/brampijper/favourite-albums-app)
 2. [Docs about styling in React](https://facebook.github.io/react-native/docs/style.html)
 3. [State and Props explained](https://medium.freecodecamp.org/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492)
 
@@ -32,7 +32,7 @@
 **Thoughts** Have to put more effort in learning the ema script 2016 format. Also slowly beginning to understand the use of state and props in react. Did not have much time the past two days, will put more effort into this project over the weekend
 
 **Link(s) to work**
-1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
 
 
 
@@ -44,7 +44,7 @@
  syntax style. The arrow functions are easy and I also understand the difference between let, const and var but there's much more! Also thinking about following some basic react tutorials to get more knowledge about the pure basics of react (for example things like: every component is required to have a render function)
 
 **Link(s) to work**
-1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
 
 
 
@@ -55,7 +55,7 @@
 **Thoughts** I'm slowly getting the gasp of props. I still have to read more about the ES2016 syntax. I am also wondering about the differences between  the react native and react.js library. They probably have a lot in common so it will be nice to set-up a react based project after succesfully learning react-native. 
 
 **Link(s) to work**
-1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
 
 
 
@@ -69,4 +69,22 @@
 **Thoughts** Got stuck for a bit by forgetting curly braces, when reconstructing the props element. Which was kind of frustrating but I found it rather quickly before I was getting frustrated. ;) Also learning about the flexbox properties was not that hard.
 
 **Link(s) to work**
-1. [My Github Repo](https://github.com/brampijper/learning-react-native)
+1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
+
+
+
+### Day 7: January 16, Tuesday
+
+**Today's Progress**: Finished my first app that is displaying my favourite albums with react native. Also began to work on my second app. 
+    Today I learned about:
+    1. How to implement scrolling in React Native. (add a scrollview tag)
+    2. How to implement buttons in React Native. (and add an onPress function)
+    3. I Got more insights in re-usable components in react native. So don't hardcode value's in components if you're planning on using them multiple times in your project.
+    4. I learned a bit about the use of Firebase. (a quick & secure way to authenticate users)
+    5. Learned more about destructing re-usable components in react native. 
+
+**Thoughts** I was excited to finish my first application that i've been building with react native. Eventhough it's a really basic app it was a good start to get to know the basics of React Native.
+I am now looking forward to learn more advanced stuff (already started on building an authenticator app with Firebase.) Still struggling a bit with props and states but I think I will get the hang of it if I use it more often. 
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
