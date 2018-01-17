@@ -88,3 +88,16 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+
+### Day 8: January 17, Wednesday
+
+**Today's Progress**: Learned about input fields in React Native, couple of things:
+    1. Getting the hang of using props (I understand the logic behind them)
+    2. re-usable components are awesome :)
+
+**Thoughts** Repetition really helps when making re-usable components, using props -> I now understand them mostly! Hopefully this will also work with states and class based components!
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
