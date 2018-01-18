@@ -101,3 +101,16 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+
+
+
+### Day 9: January 18, Thursday
+
+**Today's Progress**: Finally managed to use the firebase authentication functions. The user can now create an account and log-in. I Also managed to implement a conditional statement in JSX.
+
+**Thoughts** Currently using states a lot in react, which starts to make sense to me. Now the term this is kind of confusing me so I will have to read more about that. Also creating and using functions to refacture some pieces of code is almost the same as in Javascript :)
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
