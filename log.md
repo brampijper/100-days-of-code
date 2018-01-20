@@ -124,3 +124,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+
+### Day 11: January 20, Saturday
+
+**Today's Progress**: Implemented a change email adress feature once the user is logged in. Still very basic, but it works. 
+
+**Thoughts** Since the tutorial on React Native is hopping to building the third app I first decided  to improve the authentication app. I think it's a good way to practice react native on my own. Planning on adding more features: Change the user's password, make it more user friendly and I am going to try to implement a google or facebook log-in!
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
