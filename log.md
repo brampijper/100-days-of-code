@@ -135,3 +135,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+### Day 12: January 21, Sunday
+
+**Today's Progress**: Before changing an email-adress the user must now re-authenticate with his password. 
+
+**Thoughts** After using more state properties, I understand it more easily. Also the 'this' property makes more sense now.
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
