@@ -145,3 +145,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+
+### Day 12: January 21, Sunday
+
+**Today's Progress**: Went through my authentication code to really understand what i've been building so far. 
+
+**Thoughts** After going through some code I decided to read more about Javascript. One of my collegeues recommended "You don't know js". After finding it on Github I decided to give it a try and it's good so far! I read about the differences between ES2016 and ES2015. Also looking into this & Object Prototypes.   
+
+**Link(s) to work**
+1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
