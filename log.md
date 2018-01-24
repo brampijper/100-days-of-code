@@ -148,7 +148,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 
 
-### Day 12: January 21, Sunday
+### Day 13: January 23, Monday
 
 **Today's Progress**: Went through my authentication code to really understand what i've been building so far. 
 
@@ -156,3 +156,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+
+
+
+### Day 14: January 24, Wednesday
+
+**Today's Progress**: Set-up a basic redux application.
+
+**Thoughts** After learning the basics of react native it was time to take the next step by diving myself into Redux. Which is important to learn if your app needs to scale. Big projects with the least amount of code complexicity. I think I understand the concept, however it will take some practice and repetition before I can write application with the use of redux myself.   
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
