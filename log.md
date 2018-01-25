@@ -167,3 +167,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+
+
+
+### Day 15: January 25, Thursday
+
+**Today's Progress**: Implemented a ListView component
+
+**Thoughts** Redux is hard, but just trying to gaps the different way of writing an application. I want to put more time in learning but since im tired now I call it a day. Made many typo's today (probably related to me being tired), but at least it's a good way to practice and learning my code.  
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
