@@ -178,3 +178,24 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+
+
+
+### Day 16: January 27, Saturday
+
+**Today's Progress**: Applied some quick styling and learned about connect function.
+
+**Thoughts** Redux is still hard! Coding from the train is not the best but it's better then nothing! Also this application is not that exciting so im already looking forward to the next one :)
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+
+
+### Day 17: January 28, Sunday
+
+**Today's Progress**: Finished Redux test application & aplied an animation. 
+
+**Thoughts** Understanding Redux is hard but I get the process of Reducers, States and Store. I just need to practice more often so I understand it really good. Exciting to work on the next application which will be much bigger than this one :)
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
