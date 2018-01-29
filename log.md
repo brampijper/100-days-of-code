@@ -199,3 +199,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+
+
+### Day 18: January 29, Monday
+
+**Today's Progress**: Re-made the Redux boilerplate + set-up new project. 
+
+**Thoughts** Walking through the Redux boilerplate was good to do. I've noted all the steps that are required for setting up a new redux project. It was a good way to reflect the things I learned so far.
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
