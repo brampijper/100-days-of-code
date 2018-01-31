@@ -209,3 +209,23 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
+
+
+### Day 19: January 30, Tuesday
+
+**Today's Progress**: Re-organised my github repo for the Udemy Tutorials. 
+
+**Thoughts** Took longer then expected to combine 4 seperate repo's into on big repository. In the end it was easy ;-). Also re-read my previous coding on with redux and react to get more familiar with those frameworks.
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
+
+
+### Day 20: January 31, Wednesday
+
+**Today's Progress**: Started to rewrite the login-form with Redux.
+
+**Thoughts** Took my time to progress slowly with setting up the log-in form with Redux. I understand the steps better and I am looking forward to continue this redux adventure. Also realized that creating a loginform is much more simple to do with just react and react-native, but I understand that if an application gets more complex redux could be really usefull.
+
+**Link(s) to work**
+1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
