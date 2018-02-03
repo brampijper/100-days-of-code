@@ -32,7 +32,7 @@
 **Thoughts** Have to put more effort in learning the ema script 2016 format. Also slowly beginning to understand the use of state and props in react. Did not have much time the past two days, will put more effort into this project over the weekend
 
 **Link(s) to work**
-1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
+1. [Favourite Albums Repo](https://github.com/brampijper/learning-react-native/tree/master/albums)
 
 
 
@@ -44,7 +44,7 @@
  syntax style. The arrow functions are easy and I also understand the difference between let, const and var but there's much more! Also thinking about following some basic react tutorials to get more knowledge about the pure basics of react (for example things like: every component is required to have a render function)
 
 **Link(s) to work**
-1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
+1. [Favourite Albums Repo](https://github.com/brampijper/learning-react-native/tree/master/albums
 
 
 
@@ -55,7 +55,7 @@
 **Thoughts** I'm slowly getting the gasp of props. I still have to read more about the ES2016 syntax. I am also wondering about the differences between  the react native and react.js library. They probably have a lot in common so it will be nice to set-up a react based project after succesfully learning react-native. 
 
 **Link(s) to work**
-1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
+1. [Favourite Albums Repo](https://github.com/brampijper/learning-react-native/tree/master/albums)
 
 
 
@@ -69,7 +69,7 @@
 **Thoughts** Got stuck for a bit by forgetting curly braces, when reconstructing the props element. Which was kind of frustrating but I found it rather quickly before I was getting frustrated. ;) Also learning about the flexbox properties was not that hard.
 
 **Link(s) to work**
-1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
+1. [Favourite Albums Repo](https://github.com/brampijper/learning-react-native/tree/master/albums)
 
 
 
@@ -87,7 +87,7 @@
 I am now looking forward to learn more advanced stuff (already started on building an authenticator app with Firebase.) Still struggling a bit with props and states but I think I will get the hang of it if I use it more often. 
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -100,7 +100,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Repetition really helps when making re-usable components, using props -> I now understand them mostly! Hopefully this will also work with states and class based components!
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -111,7 +111,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Currently using states a lot in react, which starts to make sense to me. Now the term this is kind of confusing me so I will have to read more about that. Also creating and using functions to refacture some pieces of code is almost the same as in Javascript :)
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -123,7 +123,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** I implemented my first switch statement which was easy to do. Still a bit confused about the 'this' reference. Also during the weekend I want to add some more features to this basic app (which is not in a tutorial), so I will probably have to Google a lot!
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -134,7 +134,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Since the tutorial on React Native is hopping to building the third app I first decided  to improve the authentication app. I think it's a good way to practice react native on my own. Planning on adding more features: Change the user's password, make it more user friendly and I am going to try to implement a google or facebook log-in!
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 ### Day 12: January 21, Sunday
@@ -144,7 +144,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** After using more state properties, I understand it more easily. Also the 'this' property makes more sense now.
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -155,7 +155,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** After going through some code I decided to read more about Javascript. One of my collegeues recommended "You don't know js". After finding it on Github I decided to give it a try and it's good so far! I read about the differences between ES2016 and ES2015. Also looking into this & Object Prototypes.   
 
 **Link(s) to work**
-1. [Authenticator Repo](https://github.com/brampijper/authenticator-react-native)
+1. [Authenticator Repo](https://github.com/brampijper/learning-react-native/tree/master/auth)
 
 
 
@@ -166,7 +166,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** After learning the basics of react native it was time to take the next step by diving myself into Redux. Which is important to learn if your app needs to scale. Big projects with the least amount of code complexicity. I think I understand the concept, however it will take some practice and repetition before I can write application with the use of redux myself.   
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/redux_example
 
 
 
@@ -177,7 +177,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Redux is hard, but just trying to gaps the different way of writing an application. I want to put more time in learning but since im tired now I call it a day. Made many typo's today (probably related to me being tired), but at least it's a good way to practice and learning my code.  
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/redux_example
 
 
 
@@ -188,7 +188,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Redux is still hard! Coding from the train is not the best but it's better then nothing! Also this application is not that exciting so im already looking forward to the next one :)
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/redux_example
 
 
 ### Day 17: January 28, Sunday
@@ -198,7 +198,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Understanding Redux is hard but I get the process of Reducers, States and Store. I just need to practice more often so I understand it really good. Exciting to work on the next application which will be much bigger than this one :)
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/redux-test-app)
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/redux_example
 
 
 ### Day 18: January 29, Monday
@@ -208,7 +208,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Walking through the Redux boilerplate was good to do. I've noted all the steps that are required for setting up a new redux project. It was a good way to reflect the things I learned so far.
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
 ### Day 19: January 30, Tuesday
@@ -218,7 +218,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Took longer then expected to combine 4 seperate repo's into on big repository. In the end it was easy ;-). Also re-read my previous coding on with redux and react to get more familiar with those frameworks.
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
 ### Day 20: January 31, Wednesday
@@ -228,4 +228,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Took my time to progress slowly with setting up the log-in form with Redux. I understand the steps better and I am looking forward to continue this redux adventure. Also realized that creating a loginform is much more simple to do with just react and react-native, but I understand that if an application gets more complex redux could be really usefull.
 
 **Link(s) to work**
-1. [Redux-test-app Repo](https://github.com/brampijper/manager-redux-app
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 21: February, Saturday
+
+**Today's Progress**: Implemented my first working reducer
+
+**Thoughts** Converted the first part of the login-form to Redux. I'm beginning to understand Redux much better now. I takes a bit to get used to with the different files to create actions / reducers and then reimport everything again in your other component.
+
+**Link(s) to work**
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
