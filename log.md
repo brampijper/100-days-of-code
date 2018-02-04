@@ -32,7 +32,7 @@
 **Thoughts** Have to put more effort in learning the ema script 2016 format. Also slowly beginning to understand the use of state and props in react. Did not have much time the past two days, will put more effort into this project over the weekend
 
 **Link(s) to work**
-1. [Favourite Albums Repo](https://github.com/brampijper/learning-react-native/tree/master/albums)
+1. [Favourite Albums Repo](https://github.com/brampijper/favourite-albums-app)
 
 
 
@@ -236,6 +236,16 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Today's Progress**: Implemented my first working reducer
 
 **Thoughts** Converted the first part of the login-form to Redux. I'm beginning to understand Redux much better now. I takes a bit to get used to with the different files to create actions / reducers and then reimport everything again in your other component.
+
+**Link(s) to work**
+1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 22: February, Sunday
+
+**Today's Progress**: Learned about async calls with Redux Thunk
+
+**Thoughts** I'm Getting there! I now know how to create async actions with redux thunk. Also managed to hook up the password field and actually log an user in with firebase and redux. 
 
 **Link(s) to work**
 1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
