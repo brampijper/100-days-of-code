@@ -208,7 +208,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Walking through the Redux boilerplate was good to do. I've noted all the steps that are required for setting up a new redux project. It was a good way to reflect the things I learned so far.
 
 **Link(s) to work**
-1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
 ### Day 19: January 30, Tuesday
@@ -218,7 +218,7 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Took longer then expected to combine 4 seperate repo's into on big repository. In the end it was easy ;-). Also re-read my previous coding on with redux and react to get more familiar with those frameworks.
 
 **Link(s) to work**
-1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
 ### Day 20: January 31, Wednesday
@@ -228,24 +228,34 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Thoughts** Took my time to progress slowly with setting up the log-in form with Redux. I understand the steps better and I am looking forward to continue this redux adventure. Also realized that creating a loginform is much more simple to do with just react and react-native, but I understand that if an application gets more complex redux could be really usefull.
 
 **Link(s) to work**
-1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
-### Day 21: February, Saturday
+### Day 21: February 03, Saturday
 
 **Today's Progress**: Implemented my first working reducer
 
 **Thoughts** Converted the first part of the login-form to Redux. I'm beginning to understand Redux much better now. I takes a bit to get used to with the different files to create actions / reducers and then reimport everything again in your other component.
 
 **Link(s) to work**
-1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
 
 
-### Day 22: February, Sunday
+### Day 22: February 04, Sunday
 
 **Today's Progress**: Learned about async calls with Redux Thunk
 
 **Thoughts** I'm Getting there! I now know how to create async actions with redux thunk. Also managed to hook up the password field and actually log an user in with firebase and redux. 
 
 **Link(s) to work**
-1. [Redux-test-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 23: February 05, Monday
+
+**Today's Progress**: Finished building login form with Redux and learned about routes in react native. 
+
+**Thoughts** Creating more reducers and actions made me understand react redux much better. I also learned about scenes that work with react redux. 
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
