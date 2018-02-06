@@ -259,3 +259,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 24: February 06, Tuesday
+
+**Today's Progress**: Created a form where a user can fill in a name, phone number and select a specific weekday.
+
+**Thoughts** Today was more of the same as yesterday: I created another reducer, action and a component. Looking forward to learn how to use firebase as a data storage for my app. Tomorrow I will have a reflecton on what i've learned so far. It's also a good way to notice the subject i'm still struggling with. 
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
