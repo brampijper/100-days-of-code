@@ -269,3 +269,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 25: February 07, Wednesday
+
+**Today's Progress**: Added a connection to the firebase database to store names, phonenumbers and shiftdays tied to the user ID.
+
+**Thoughts** Writing data to the firebase database was fairly easy and straightforward. Also learned about the Action.pop method to navigate the user back to the previous screen. Tomorrow I will start implementing on how to read data from the firebase database. 
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
