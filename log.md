@@ -279,3 +279,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 26: February 08, Thursday
+
+**Today's Progress**: Created new actions, reducers and components to retrieve all the data from firebase and to display it to the user. 
+
+**Thoughts** Reading data from Firebase was easy enough, but I feel like sometimes things are over-complicated with redux. The whole set-up with the reducers and actions can be hard. Even more so if you're not sticking to a clear naming convention. For now I'm still following tutorials so it's fine, but it's definitely something to take into account when I'm starting to build my own application. 
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
