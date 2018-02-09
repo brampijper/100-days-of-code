@@ -289,3 +289,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 27: February 09, Friday
+
+**Today's Progress**: Finished the Manager app! Learned about creating a module and how to delete records in the database!
+
+**Thoughts** Wooh! finished the whole Udemy tutorial on react-native / redux. this was an intense week! I feel like I already learned so much and of course there is still a lot more to learn! I'm both excited and scared to start building my own idea now. No more guidance from a Udemy tutorial. Luckily the developer community is amazing (heart). 
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
