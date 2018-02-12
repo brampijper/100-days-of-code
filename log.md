@@ -299,3 +299,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
+
+
+### Day 28: February 12, Monday
+
+**Today's Progress**: Started building a boilerplate for react-native and redux.
+
+**Thoughts** Took a break from coding over the weekend, but still managed to read a bit javascript. Today I managed to squeeze in some time to start working on my personal boilerplate for react native. First version is pushed to github ;) Tomorrow I will look for improvements and after that I will set-up a new project.
+
+**Link(s) to work**
+1. [Redux-Manager-app Repo]https://github.com/brampijper/learning-react-native/tree/master/manager
