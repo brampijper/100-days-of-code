@@ -310,7 +310,18 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 **Link(s) to work**
 1. [Boilerplate React Native Redux]https://github.com/brampijper/boilerplate-reactnative-redux
 
-### Day 29: February 15, Thursday
+
+### Day 29: February 13, Tuesday
+
+**Today's Progress**: Finished boilerplate react-redux
+
+**Thoughts** Fixed some errors and finished my personal boilerplate for react-native-redux :) I will update this in the future if nesessary. 
+
+**Link(s) to work**
+1. [Boilerplate React Native Redux]https://github.com/brampijper/boilerplate-reactnative-redux
+
+
+### Day 30: February 15, Thursday
 
 **Today's Progress**: Started working on my commute sharing application.
 
