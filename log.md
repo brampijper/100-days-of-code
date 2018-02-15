@@ -309,3 +309,12 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Boilerplate React Native Redux]https://github.com/brampijper/boilerplate-reactnative-redux
+
+### Day 29: February 15, Thursday
+
+**Today's Progress**: Started working on my commute sharing application.
+
+**Thoughts** Started my new project from scratch. Already implemented the bare minimum for the login form and started styling the register form. It's a lot harder without the tutorial, but it's a good learning progress so far!
+
+**Link(s) to work**
+1. [Share your commute]https://github.com/brampijper/share-your-commute
