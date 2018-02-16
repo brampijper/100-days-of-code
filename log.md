@@ -329,3 +329,13 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Share your commute]https://github.com/brampijper/share-your-commute
+
+
+### Day 31: February 16, Friday
+
+**Today's Progress**: Made some progress on the registerform, but still a lot to do!
+
+**Thoughts** I should really plan and sketch a plan for my application before I start building it. Eventually it's going to save me a lot of time but so far I just started building and discovered some bottlenecks with handling the register and log-in form in seperate reducers. Tomorrow I will first start sketching the process I'm planning to implement so that I exactly know how I'm going to build it. 
+
+**Link(s) to work**
+1. [Share your commute]https://github.com/brampijper/share-your-commute
