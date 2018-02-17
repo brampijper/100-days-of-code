@@ -339,3 +339,14 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Share your commute]https://github.com/brampijper/share-your-commute
+
+
+
+### Day 32: February 17, Saturday
+
+**Today's Progress**: Added an option to choose a gender in the registration form. 
+
+**Thoughts** Wow spend about a hour on something that was suppose to be easy ;) Atleast I got it working ( a segmented picker on IOS ), still have to work on sending the data back to firebase, but I will do that once the front-end work is done for the registration form.
+
+**Link(s) to work**
+1. [Share your commute]https://github.com/brampijper/share-your-commute
