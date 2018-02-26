@@ -350,3 +350,18 @@ I am now looking forward to learn more advanced stuff (already started on buildi
 
 **Link(s) to work**
 1. [Share your commute]https://github.com/brampijper/share-your-commute
+
+
+### Day 33: February 26, Monday
+
+**Today's Progress**: Decided to do some things differently! 
+
+**Thoughts** After finishing the react-native redux tutorials with Udemy I did not quite understand props and state yet. I was struggling to create my own application so I decided to take another course which will explain react more in depth. I'm hoping this will pay of so I can create my own web applications in the end. 
+
+This also doesn't mean I will abondon my 'share your commute' project, because I still think it's awesomen and I'm motivated to work on it after a while. I first have to take a step back and learn more!
+
+The past week I've been missing the simple structure of just coding for 1 hour, write it in my logbook and push it to Github. I still did manage to read code and listen to tutorials but it was a bit inconsitent. I will do better from now on :-)
+
+For now I made a new repo where I'm going to learn the basics of react.js! 
+**Link(s) to work**
+1. [Learning React]https://github.com/brampijper/learning-react
