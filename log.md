@@ -365,3 +365,12 @@ The past week I've been missing the simple structure of just coding for 1 hour, 
 For now I made a new repo where I'm going to learn the basics of react.js! 
 **Link(s) to work**
 1. [Learning React]https://github.com/brampijper/learning-react
+
+### Day 34: February 26, Tuesday
+
+**Today's Progress**: Started working with the Yummly APi for searching Recipes.
+
+**Thoughts** Just started easily by implementing the yummly api for searching recipes. The user can type a term and it will search for recipes on Yummly. Next step is to show the results on screen instead of in a json file.
+
+**Link(s) to work**
+1. [Learning React]https://github.com/brampijper/learning-react/tree/master/Recipes
