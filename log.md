@@ -384,3 +384,13 @@ For now I made a new repo where I'm going to learn the basics of react.js!
 
 **Link(s) to work**
 1. [Learning React]https://github.com/brampijper/learning-react/tree/master/Recipes
+
+
+### Day 36: March 01, Thursday
+
+**Today's Progress**: Refactored some code for rendering multiple cards when making a Yummly API call.
+
+**Thoughts** I was struggling today on how to render multiple cards with one Yummly API call. For now it renders the last item in the array (which makes sense). I will hopefully find a solution tomorrow :)
+
+**Link(s) to work**
+1. [Learning React]https://github.com/brampijper/learning-react/tree/master/Recipes
